@@ -26,6 +26,8 @@ The notebook has 3 problems for you to solve:
  It turns out the best parameter configuration is the following: 
  - epochs = 5, batch size = 100, learning rate = 0.2 --> test accuracy = 0.791467
 
+ Test Accuracy is 0.857200026512146
+
 This is a self-assessed lab.  Compare your answers to the solutions [here](https://github.com/udacity/CarND-TensorFlow-Lab/blob/master/solutions.ipynb).  If you have any difficulty completing the lab, Udacity provides a few services to answer any questions you might have.
 
 
